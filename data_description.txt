@@ -219,7 +219,7 @@ Exterior1st: Exterior covering on house
        Wd Sdng	Wood Siding
        WdShing	Wood Shingles
 	
-Exterior2nd: Exterior covering on house (if more than one material)
+Exterior2nd: Exterior coverExteing on house (if more than one material)
 
        AsbShng	Asbestos Shingles
        AsphShn	Asphalt Shingles
